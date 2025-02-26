@@ -1,2 +1,10 @@
-# Machine-Learning-Projects
-A collection of machine learning projects covering regression, classification, NLP, computer vision, and time series forecasting.
+# Credit Card Fraud Detection
+Credit card fraud detection using machine learning to identify fraudulent transactions based on patterns and anomalies in transaction data.
+
+
+
+
+
+
+
+
